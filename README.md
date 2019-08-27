@@ -1,4 +1,6 @@
-# Vivliostyleで本を作ろう Vol.1
+# Vivliostyleで本を作るためのテンプレート
+
+https://github.com/spring-raining/tbf06-draft をforkして、自分で使うようのテンプレート化したプロジェクトです。
 
 ### セットアップ
 
@@ -8,8 +10,7 @@ npm install (or) yarn install
 
 ### HTML/CSSビルド
 
-~~原稿保存ディレクトリ（`content/`）はgitリポジトリから省いています。「Vivliostyleで本を作ろう Vol.1」を購入し、電子版データを入手することで本は完成します。（宣伝）~~
-原稿コンテンツを公開しました！ プレビューはこちらから→ https://github.com/vivliostyle/vivliostyle_doc/tree/gh-pages/ja/vivliostyle-user-group-vol1
+~~原稿保存ディレクトリ（`content/`）に記述します。
 
 ```
 npm run gulp (or) yarn gulp
